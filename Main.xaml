@@ -781,7 +781,7 @@
                                 <scg:Dictionary x:TypeArguments="x:String, x:Object">
                                   <av:Point x:Key="ShapeLocation">560,238.4</av:Point>
                                   <av:Size x:Key="ShapeSize">200,83.2</av:Size>
-                                  <av:PointCollection x:Key="ConnectorLocation">660,238.4 660,208.40000000000003 650,208.40000000000003 650,166.4</av:PointCollection>
+                                  <av:PointCollection x:Key="ConnectorLocation">660,238.4 660,208.40000000000003 650,208.40000000000003 650,176.39999999999998</av:PointCollection>
                                 </scg:Dictionary>
                               </sap:WorkflowViewStateService.ViewState>
                               <Sequence DisplayName="Dynamic Delay" sap:VirtualizedContainerService.HintSize="200,83.2" sap2010:WorkflowViewState.IdRef="Sequence_75">
@@ -808,9 +808,9 @@
                                 <FlowStep x:Name="__ReferenceID9">
                                   <sap:WorkflowViewStateService.ViewState>
                                     <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                                      <av:Point x:Key="ShapeLocation">550,113.60000000000001</av:Point>
+                                      <av:Point x:Key="ShapeLocation">550,123.6</av:Point>
                                       <av:Size x:Key="ShapeSize">200,52.8</av:Size>
-                                      <av:PointCollection x:Key="ConnectorLocation">650,113.60000000000001 660,113.60000000000001 660,91.6</av:PointCollection>
+                                      <av:PointCollection x:Key="ConnectorLocation">650,123.6 650,93.60000000000001 660,93.60000000000001 660,91.6</av:PointCollection>
                                     </scg:Dictionary>
                                   </sap:WorkflowViewStateService.ViewState>
                                   <Delay Duration="00:00:20" sap:VirtualizedContainerService.HintSize="200,52.8" sap2010:WorkflowViewState.IdRef="Delay_33">
